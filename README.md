@@ -1,7 +1,7 @@
 ## Active_Users_and_Activity
 
 #### Technology Stack:
-Google Sheets(formulas, functions, forecasting, charts, transformation, pivot tables)
+Google Sheets (formulas, functions, forecasting, charts, transformation, pivot tables)
 
 #### Project Description:
 In this project, I utilized Google Sheets to analyze user data and activity. The primary objectives and tasks accomplished include:
@@ -49,7 +49,7 @@ Created a table below the pivot table displaying retention rates instead of user
 Implemented conditional formatting for both tables to highlight significant values.
 Added three slices: game name, activity type, and user language for enhanced analysis.
 
-#### Link:
+#### Link Google Sheets:
 https://docs.google.com/spreadsheets/d/1uieUg2xaLr3mB10U2lgoPqabnYIBWW7wqOp-cSh1LhM/edit?usp=sharing
 
 #### Skills:
