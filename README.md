@@ -56,4 +56,4 @@ https://docs.google.com/spreadsheets/d/1uieUg2xaLr3mB10U2lgoPqabnYIBWW7wqOp-cSh1
 https://docs.google.com/spreadsheets/d/1TXZHYCd2YPEN2xByV6Ss7nAoNJRipkbqMai63JDAVRA/edit?usp=sharing
 
 #### Skills:
-Google Sheets, Вata Мisualization, Cohort Analysis
+Google Sheets, Data Visualization, Cohort Analysis
