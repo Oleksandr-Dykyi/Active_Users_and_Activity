@@ -54,4 +54,4 @@ Added three slices: game name, activity type, and user language for enhanced ana
 [Source data from Google Sheets](https://docs.google.com/spreadsheets/d/1TXZHYCd2YPEN2xByV6Ss7nAoNJRipkbqMai63JDAVRA/edit?usp=sharing)
 
 #### Skills:
-Google Sheets, Data Visualization, Cohort Analysis
+Data Analysis · Google Workspace · Google Sheets · Data Visualization · Statistical Data Analysis · Cohort Analysis · Regression Analysis · Mathematical Statistics
